@@ -1,13 +1,21 @@
 {
   "name": "nodejs",
-  "type": "module",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "node --watch src/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bielpatricio/nodeJS.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bielpatricio/nodeJS/issues"
+  },
+  "homepage": "https://github.com/bielpatricio/nodeJS#readme"
 }
