@@ -23,7 +23,7 @@
 
 # About The Project
 
-Teams Ignite App using React Native! Project of React Native Ignite from Rocketseat.
+This project was created to learn about NodeJS fundamentals, how create routes, a database and the concept of streams.
 
 <br>
 
