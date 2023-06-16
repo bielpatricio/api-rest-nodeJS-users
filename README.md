@@ -31,9 +31,9 @@ This project was created to learn about NodeJS fundamentals, how create routes, 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/bielpatricio/nodeJS
+$ git clone https://github.com/bielpatricio/api-rest-nodeJS-users
 # Access the project folder in your terminal
-$ cd nodeJS
+$ cd api-rest-nodeJS-users
 # Install the dependencies
 $ npm i
 # Run the application in development mode
